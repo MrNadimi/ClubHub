@@ -4,7 +4,7 @@ This project is based on [Grishka Houseclub](https://github.com/grishka/Houseclu
 
 
 
-### [Privacy Policy](https://github.com/mrnadimi/GoldClubHouse/README.md/Privacy-Policy)
+### [Privacy Policy](https://github.com/mrnadimi/GoldClubHouse/wiki/Privacy-Policy)
 
 We do not send your information to any server and all required information and transactions are sent only to Clubhouse servers
 
