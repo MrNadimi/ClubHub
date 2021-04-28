@@ -3,6 +3,33 @@ Unofficial Clubhouse app for Android. Inspired by [this](https://github.com/styp
 This project is based on [Grishka Houseclub](https://github.com/grishka/Houseclub)
 
 
+## Feautures
+
+* Ability to enlarge profile picture
+
+* Ability to invite friends to the chat room
+
+* Ability to build a private/public chat room
+
+* Ability to watch users online
+
+* Ability to invite friends
+
+* Ability to delete and add as administrator
+
+* Ability to attend and talk in chat rooms
+
+* Ability to search for friends and clubs
+
+* Ability to watch events and add them to the calendar
+
+* Ability to edit username and profile picture
+
+* And other features that you will encounter when working with the software
+
+
+
+
 
 ### [Privacy Policy](https://github.com/mrnadimi/GoldClubHouse/wiki/Privacy-Policy)
 
