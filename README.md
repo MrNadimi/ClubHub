@@ -5,6 +5,10 @@ This project is based on [Grishka Houseclub](https://github.com/grishka/Houseclu
 
 ## Feautures
 
+* Ability to record and play records in chat rooms
+
+* Easy detection of people speaking in the chat room
+
 * Ability to enlarge profile picture
 
 * Ability to invite friends to the chat room
@@ -43,6 +47,7 @@ The permissions you receive are as follows:
    * BLUETOOTH and ACCESS_WIFI_STATE: The [Agora SDK](https://www.agora.io/en/) requires Bluetooth permissions in case users are using Bluetooth devices
    * FOREGROUND_SERVICE: This application has the ability to play chat room sounds even when the application is not present on the screen, and for this reason, this access has been used
    * WAKE_LOCK: This access prevents the Android device from falling asleep while using this application
+   * android.permission.READ_EXTERNAL_STORAGE, android.permission.WRITE_EXTERNAL_STORAGE: These permissions are used to record and play back recorded audio in chat rooms
 
 You can get more information from the [official Club House website](https://www.joinclubhouse.com/) or this website [privacy link](https://www.notion.so/Privacy-Policy-cd4b415950204a46819478b31f6ce14f)
 We assure you that we will not send your information to any server other than the main Clubhouse servers.
