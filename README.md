@@ -5,7 +5,16 @@ This project is based on [Grishka Houseclub](https://github.com/grishka/Houseclu
 
 ## Feautures
 
-* Ability to record and play records in chat rooms
+
+* Ability to recognize who changed profile photo and bio
+
+* Ability to recognize fans
+
+* Ability to recognize unfollowers
+
+* Ability to play, share and delete recorded files
+
+* Ability to record in chat rooms
 
 * Easy detection of people speaking in the chat room
 
